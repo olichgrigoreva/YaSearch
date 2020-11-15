@@ -10,7 +10,7 @@ import java.io.File;
 import java.io.IOException;
 
 public class TakeScreenshot {
-    String path = "\\src\\test\\java\\results\\";
+    String path = "\\src\\test\\java\\";
     String mainPath = System.getProperty("user.dir") + path;
     String screenshotName = "screenshot.jpg";
 
