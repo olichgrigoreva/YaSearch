@@ -1,3 +1,8 @@
+##Project Structure
+Project SDK: 14
+Project language level: 14
+Target bytecode version 1.8
+
 Реализовать сценарий на Selenium , c помощью библиотеки JUnit(или TestNG),язык Java(либо другой).
 Желательно результат представить в виде ссылки на github
 
